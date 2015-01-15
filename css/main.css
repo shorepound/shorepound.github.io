@@ -222,8 +222,7 @@ textarea {
 @media (max-width: 767px) {
 	
 	body.homepage{
-		background: url(/img/broccoli-portrait.jpg) no-repeat;
-		background-position: 0 200px;
+
 	}
 	
 }
@@ -234,8 +233,7 @@ textarea {
 @media (min-width: 480px) and (max-width: 767px) {
 
 	body.homepage{
-		background: url(/img/broccoli-landscape.jpg) no-repeat;
-		background-position: 0 100px;
+
 	}
 	
 }
